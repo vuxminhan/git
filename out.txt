@@ -1,0 +1,28 @@
+Script started on 2023-08-28 11:50:13+07:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="80" LINES="24"]
+[?2004h]0;alex@alex-Legion-5-15ACH6: ~/OneDrive/lab/advance-git[01;32malex@alex-Legion-5-15ACH6[00m:[01;34m~/OneDrive/lab/advance-git[00m$ ls
+[?2004l[0m[01;34mex1[0m  [01;34mex2[0m  output.txt  out.txt
+[?2004h]0;alex@alex-Legion-5-15ACH6: ~/OneDrive/lab/advance-git[01;32malex@alex-Legion-5-15ACH6[00m:[01;34m~/OneDrive/lab/advance-git[00m$ echo hello
+[?2004lhello
+[?2004h]0;alex@alex-Legion-5-15ACH6: ~/OneDrive/lab/advance-git[01;32malex@alex-Legion-5-15ACH6[00m:[01;34m~/OneDrive/lab/advance-git[00m$ ls
+[?2004l[0m[01;34mex1[0m  [01;34mex2[0m  output.txt  out.txt
+[?2004h]0;alex@alex-Legion-5-15ACH6: ~/OneDrive/lab/advance-git[01;32malex@alex-Legion-5-15ACH6[00m:[01;34m~/OneDrive/lab/advance-git[00m$ git status
+[?2004lOn branch master
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+	[32mnew file:   ex1[m
+	[32mnew file:   ex2/advanced-git-exercises[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31mout.txt[m
+	[31moutput.txt[m
+
+[?2004h]0;alex@alex-Legion-5-15ACH6: ~/OneDrive/lab/advance-git[01;32malex@alex-Legion-5-15ACH6[00m:[01;34m~/OneDrive/lab/advance-git[00m$ git [K[K[K[Kecho hi [K
+[?2004lhi
+[?2004h]0;alex@alex-Legion-5-15ACH6: ~/OneDrive/lab/advance-git[01;32malex@alex-Legion-5-15ACH6[00m:[01;34m~/OneDrive/lab/advance-git[00m$ exit
+[?2004lexit
+
+Script done on 2023-08-28 11:50:36+07:00 [COMMAND_EXIT_CODE="0"]
